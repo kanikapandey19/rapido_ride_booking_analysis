@@ -246,7 +246,6 @@ Sample Business Questions:
 ---
 
 ## Author
-
-Kanika PANDET
+Kanika Pandey
 
  Data Analyst skilled in EXCEL, SQL, Power BI, DAX, and data visualization with a focus on transforming raw data into actionable business insights.
